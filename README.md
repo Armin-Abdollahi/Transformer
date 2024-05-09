@@ -1,7 +1,5 @@
 # Transformer
 
-
-hi
 ---
 Implementing the Vision Transformer (ViT) model for image classification.
 
